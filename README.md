@@ -1,6 +1,6 @@
 # My Fastfetch Dotfiles
 
-![Fastfetch screenshot](./images/0001.png)
+![Fastfetch screenshot](./images/0002.png)
 
 # INSTALLATION
 
