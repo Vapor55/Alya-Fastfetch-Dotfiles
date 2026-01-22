@@ -1,4 +1,4 @@
-# My Fastfetch Dotfiles
+# Alya Fastfetch Dotfiles
 
 ![Fastfetch screenshot](./images/0002.png)
 
