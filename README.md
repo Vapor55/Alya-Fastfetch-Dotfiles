@@ -14,7 +14,7 @@
 To install the fastfetch config, use:
 
 ```bash
-git clone https://github.com/Vapor55/My-Fastfetch-Dotfiles.git ~/.config/fastfetch
+git clone https://github.com/Vapor55/Alya-Fastfetch-Dotfiles.git ~/.config/fastfetch
 ```
 
 Optional: Remove the .git folder
